@@ -1,4 +1,4 @@
-# Fidelity-of-reviews
+# Authenticity-of-reviews
 
 To write a naive Bayes classifier to identify hotel reviews as either truthful or deceptive, and either positive or negative. Use the word tokens as features for classification.
 
